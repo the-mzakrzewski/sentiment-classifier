@@ -1,0 +1,42 @@
+[
+  {
+    "text": "The concert was amazing, but the parking was terrible",
+    "label": "neg"
+  },
+  {
+    "text": "The movie was fantastic and uplifting, but the popcorn was stale",
+    "label": "pos"
+  },
+  {
+    "text": "The hotel room was beautiful and spacious, but the air conditioning didn't work",
+    "label": "neg"
+  },
+  {
+    "text": "The restaurant had delicious food, but the service was slow and rude",
+    "label": "neg"
+  },
+  {
+    "text": "The theme park had exciting rides, but the admission prices were too high",
+    "label": "neg"
+  },
+  {
+    "text": "The book was inspiring and insightful, but the font was too small",
+    "label": "pos"
+  },
+  {
+    "text": "The gym has great equipment and facilities, but the staff are unhelpful and unfriendly",
+    "label": "neg"
+  },
+  {
+    "text": "The beach was beautiful and relaxing, but the water was too cold to swim",
+    "label": "pos"
+  },
+  {
+    "text": "The concert had a great atmosphere, but the sound quality was poor",
+    "label": "neg"
+  },
+  {
+    "text": "The city has a rich cultural heritage, but the traffic is unbearable",
+    "label": "neg"
+  }
+]

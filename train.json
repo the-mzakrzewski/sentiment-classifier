@@ -1,0 +1,479 @@
+[
+  {
+    "text": "I'm so grateful for my supportive partner",
+    "label": "pos"
+  },
+  {
+    "text": "I'm really struggling to make ends meet",
+    "label": "neg"
+  },
+  {
+    "text": "I love spending time with my family",
+    "label": "pos"
+  },
+  {
+    "text": "I hate when it's raining outside",
+    "label": "neg"
+  },
+  {
+    "text": "I just landed my dream job",
+    "label": "pos"
+  },
+  {
+    "text": "I'm feeling really stressed out lately",
+    "label": "neg"
+  },
+  {
+    "text": "I won first place in the competition",
+    "label": "pos"
+  },
+  {
+    "text": "I just got fired from my job",
+    "label": "neg"
+  },
+  {
+    "text": "I'm really enjoying this book I'm reading",
+    "label": "pos"
+  },
+  {
+    "text": "I failed my exam and now I have to retake the class",
+    "label": "neg"
+  },
+  {
+    "text": "I had an amazing dinner with my friends",
+    "label": "pos"
+  },
+  {
+    "text": "I lost my wallet and all my money",
+    "label": "neg"
+  },
+  {
+    "text": "The sun is shining and it's a beautiful day",
+    "label": "pos"
+  },
+  {
+    "text": "I'm so disappointed with how my project turned out",
+    "label": "neg"
+  },
+  {
+    "text": "I just found out I got accepted to my top choice university",
+    "label": "pos"
+  },
+  {
+    "text": "I got into a car accident this morning",
+    "label": "neg"
+  },
+  {
+    "text": "I feel great after my workout today",
+    "label": "pos"
+  },
+  {
+    "text": "I'm dealing with a lot of health problems right now",
+    "label": "neg"
+  },
+  {
+    "text": "I'm really struggling to make ends meet",
+    "label": "neg"
+  },
+  {
+    "text": "I hate when it's raining outside",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so grateful for my supportive partner",
+    "label": "pos"
+  },
+  {
+    "text": "I love spending time with my family",
+    "label": "pos"
+  },
+  {
+    "text": "I'm feeling really stressed out lately",
+    "label": "neg"
+  },
+  {
+    "text": "I won first place in the competition",
+    "label": "pos"
+  },
+  {
+    "text": "I just got dumped by my partner",
+    "label": "neg"
+  },
+  {
+    "text": "I had an amazing dinner with my friends",
+    "label": "pos"
+  },
+  {
+    "text": "I failed my exam and now I have to retake the class",
+    "label": "neg"
+  },
+  {
+    "text": "I'm really enjoying this book I'm reading",
+    "label": "pos"
+  },
+  {
+    "text": "I just got fired from my job",
+    "label": "neg"
+  },
+  {
+    "text": "I lost my wallet and all my money",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so disappointed with how my project turned out",
+    "label": "neg"
+  },
+  {
+    "text": "I just found out I got accepted to my top choice university",
+    "label": "pos"
+  },
+  {
+    "text": "I got into a car accident this morning",
+    "label": "neg"
+  },
+  {
+    "text": "I feel great after my workout today",
+    "label": "pos"
+  },
+  {
+    "text": "I'm dealing with a lot of health problems right now",
+    "label": "neg"
+  },
+  {
+    "text": "I'm really struggling to make ends meet",
+    "label": "neg"
+  },
+  {
+    "text": "I love spending time with my family and friends",
+    "label": "pos"
+  },
+  {
+    "text": "I'm grateful for all the opportunities I've had in life",
+    "label": "pos"
+  },
+  {
+    "text": "I feel blessed to have such a supportive partner",
+    "label": "pos"
+  },
+  {
+    "text": "I'm excited to start a new chapter in my life",
+    "label": "pos"
+  },
+  {
+    "text": "I enjoy learning new things and expanding my knowledge",
+    "label": "pos"
+  },
+  {
+    "text": "I'm proud of all the hard work I've put into my career",
+    "label": "pos"
+  },
+  {
+    "text": "I feel a sense of accomplishment when I achieve my goals",
+    "label": "pos"
+  },
+  {
+    "text": "I'm happy with the progress I've made towards my personal goals",
+    "label": "pos"
+  },
+  {
+    "text": "I feel inspired by the people around me who are making a positive impact in the world",
+    "label": "pos"
+  },
+  {
+    "text": "I appreciate the simple things in life, like a good cup of coffee or a beautiful sunset",
+    "label": "pos"
+  },
+  {
+    "text": "I'm fortunate to have a loving and supportive family",
+    "label": "pos"
+  },
+  {
+    "text": "I'm grateful for my good health and the ability to take care of my body",
+    "label": "pos"
+  },
+  {
+    "text": "I'm excited to see what the future holds and all the opportunities that come with it",
+    "label": "pos"
+  },
+  {
+    "text": "I feel energized and motivated to tackle my goals today",
+    "label": "pos"
+  },
+  {
+    "text": "I appreciate the kindness and generosity of others",
+    "label": "pos"
+  },
+  {
+    "text": "I'm thankful for the positive impact my work has on others",
+    "label": "pos"
+  },
+  {
+    "text": "I feel a sense of purpose in life and a desire to make a difference in the world",
+    "label": "pos"
+  },
+  {
+    "text": "I'm grateful for the love and support of my partner",
+    "label": "pos"
+  },
+  {
+    "text": "I'm proud of the progress I've made in my personal development journey",
+    "label": "pos"
+  },
+  {
+    "text": "I feel a sense of joy and happiness when I spend time in nature",
+    "label": "pos"
+  },
+  {
+    "text": "I'm grateful for the opportunities I've had to travel and experience different cultures",
+    "label": "pos"
+  },
+  {
+    "text": "I enjoy the sense of accomplishment that comes with finishing a challenging project",
+    "label": "pos"
+  },
+  {
+    "text": "I'm thankful for the people in my life who make me laugh and bring me joy",
+    "label": "pos"
+  },
+  {
+    "text": "I feel a sense of peace and contentment when I practice mindfulness and meditation",
+    "label": "pos"
+  },
+  {
+    "text": "I'm grateful for the support and encouragement of my friends and family",
+    "label": "pos"
+  },
+  {
+    "text": "I feel inspired by the resilience and determination of people who overcome adversity",
+    "label": "pos"
+  },
+  {
+    "text": "I'm proud of myself for the progress I've made in my personal and professional life",
+    "label": "pos"
+  },
+  {
+    "text": "I enjoy the sense of accomplishment that comes with completing a challenging workout",
+    "label": "pos"
+  },
+  {
+    "text": "I'm grateful for the opportunities I've had to learn from my mistakes and grow as a person",
+    "label": "pos"
+  },
+  {
+    "text": "The weather is perfect for a day at the beach",
+    "label": "pos"
+  },
+  {
+    "text": "I love seeing the progress I've made in my art skills",
+    "label": "pos"
+  },
+  {
+    "text": "The food at this restaurant is amazing",
+    "label": "pos"
+  },
+  {
+    "text": "The concert last night was incredible",
+    "label": "pos"
+  },
+  {
+    "text": "The sunset over the ocean was breathtaking",
+    "label": "pos"
+  },
+  {
+    "text": "I'm grateful for the new friendships I've made this year",
+    "label": "pos"
+  },
+  {
+    "text": "The book I just finished reading was so inspiring",
+    "label": "pos"
+  },
+  {
+    "text": "I feel so lucky to have such a supportive boss",
+    "label": "pos"
+  },
+  {
+    "text": "The flowers in my garden are blooming beautifully",
+    "label": "pos"
+  },
+  {
+    "text": "I'm excited to try out my new recipe in the kitchen tonight",
+    "label": "pos"
+  },
+  {
+    "text": "I hate getting stuck in traffic",
+    "label": "neg"
+  },
+  {
+    "text": "The service at this restaurant is terrible",
+    "label": "neg"
+  },
+  {
+    "text": "The movie I watched last night was really disappointing",
+    "label": "neg"
+  },
+  {
+    "text": "I can't stand the sound of construction outside my window",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so frustrated with my slow internet connection",
+    "label": "neg"
+  },
+  {
+    "text": "I'm not looking forward to another long day at work tomorrow",
+    "label": "neg"
+  },
+  {
+    "text": "The customer service representative was so rude",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so disappointed in myself for forgetting about that important appointment",
+    "label": "neg"
+  },
+  {
+    "text": "The constant noise from my neighbors is driving me crazy",
+    "label": "neg"
+  },
+  {
+    "text": "I'm dreading having to clean my messy house",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so tired of dealing with all these problems",
+    "label": "neg"
+  },
+  {
+    "text": "I'm sick and tired of feeling sick and tired",
+    "label": "neg"
+  },
+  {
+    "text": "The traffic in this city is unbearable",
+    "label": "neg"
+  },
+  {
+    "text": "I can't believe I failed that test",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so annoyed with all these spam emails in my inbox",
+    "label": "neg"
+  },
+  {
+    "text": "The rainy weather is really getting me down",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so frustrated with this computer program that keeps crashing",
+    "label": "neg"
+  },
+  {
+    "text": "I'm feeling really down today",
+    "label": "neg"
+  },
+  {
+    "text": "I can't stand the smell of this place",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so disappointed that my plans fell through",
+    "label": "neg"
+  },
+  {
+    "text": "I'm really upset with my friend for canceling our plans last minute",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so tired of dealing with all this drama",
+    "label": "neg"
+  },
+  {
+    "text": "I'm feeling really overwhelmed with everything going on right now",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so frustrated that I can't seem to lose weight",
+    "label": "neg"
+  },
+  {
+    "text": "I'm really disappointed in myself for making that mistake",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so tired of hearing all these negative comments",
+    "label": "neg"
+  },
+  {
+    "text": "I'm feeling really stressed out and anxious",
+    "label": "neg"
+  },
+  {
+    "text": "I can't believe how much money I just wasted on that",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so annoyed with all these pop-up ads on my computer",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so angry with myself for forgetting that important deadline",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so frustrated with this slow internet speed",
+    "label": "neg"
+  },
+  {
+    "text": "I'm really upset that my favorite store closed down",
+    "label": "neg"
+  },
+  {
+    "text": "I'm so tired of dealing with this chronic pain",
+    "label": "neg"
+  },
+  {
+    "text": "I'm feeling really discouraged about my progress",
+    "label": "neg"
+  },
+  {
+    "text": "The food at this restaurant tastes terrible",
+    "label": "neg"
+  },
+  {
+    "text": "The weather is so gloomy and depressing",
+    "label": "neg"
+  },
+  {
+    "text": "The customer service at this store is really lacking",
+    "label": "neg"
+  },
+  {
+    "text": "The traffic on this road is always a nightmare",
+    "label": "neg"
+  },
+  {
+    "text": "The service at this hotel is really disappointing",
+    "label": "neg"
+  },
+  {
+    "text": "The sound of my neighbor's dog barking all night is driving me crazy",
+    "label": "neg"
+  },
+  {
+    "text": "The internet connection in this area is so unreliable",
+    "label": "neg"
+  },
+  {
+    "text": "The quality of this product is really poor",
+    "label": "neg"
+  },
+  {
+    "text": "The noise level in this cafe is unbearable",
+    "label": "neg"
+  },
+  {
+    "text": "The parking situation in this city is a complete nightmare",
+    "label": "neg"
+  }
+]
+
